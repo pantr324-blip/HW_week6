@@ -1,0 +1,9 @@
+.DS_S*
+__pycache__/
+*_utils.py
+*_utils.py.*
+*.pyc
+*.pyc.*
+!Homework06_utils.py
+!Homework06_utils.pyc
+data/
